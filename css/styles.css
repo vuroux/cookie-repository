@@ -1,5 +1,6 @@
-body {
-  font-family: sans-serif;
-  color: #312BCB;
-  text-align: center;
+h1 {
+  color: blue;
+}
+p {
+  background-color: yellow;
 }
